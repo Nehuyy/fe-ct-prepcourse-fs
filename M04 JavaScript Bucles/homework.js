@@ -234,7 +234,7 @@ function doWhile(num) {
 
    do {
       num = num + 5;
-      contador++;
+      contador++;git
    }
    while (contador<8);
    return num;
